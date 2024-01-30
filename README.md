@@ -14,8 +14,8 @@ This program is a basic GUI calculator program built using the Swing library. It
 ### 🛠️ III. How to use this repository?
 ##
 **Method 1: Cloning**
-
-   **1. Clone this repository**
+##
+**1. Clone this repository**
 
    Paste this command on your terminal: 
    ```
@@ -30,3 +30,4 @@ This program is a basic GUI calculator program built using the Swing library. It
    ```
 ##
 **Method 2: Forking**
+##
