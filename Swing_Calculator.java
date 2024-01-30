@@ -1,16 +1,3 @@
-
-/*  ------------------------------------------------------
- *	File Name: Swing_Calculator.java
- *  ------------------------------------------------------
- *  Date Created: 02-19-2021
- *  ------------------------------------------------------
- *  Description:
- *  This program is a basic GUI calculator program built 
- *  using the Swing library. It enables users to perform 
- *  addition, subtraction, multiplication, and division 
- *  operations on two numbers.
- *  ------------------------------------------------------ */
-
 import javax.swing.*;
 import java.awt.event.*;
 
