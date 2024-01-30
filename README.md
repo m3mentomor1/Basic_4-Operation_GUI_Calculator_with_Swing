@@ -31,4 +31,4 @@ This program is a basic GUI calculator program built using the Swing library. It
 ##
 **Method 2: Forking**
 ##
-Click on the '**Fork**' button at the top right corner of this page to create a copy of this repository in your GitHub account.
+Click the '**Fork**' button at the top right corner of this page to create a copy of this repository in your GitHub account.
