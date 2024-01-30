@@ -13,7 +13,7 @@ This program is a basic GUI calculator program built using the Swing library. It
 
 ### 🛠️ III. How to use this repository?
 ##
-### **Method 1: Cloning**
+#### **Method 1: Cloning**
 
 **1. Clone this repository**
 
