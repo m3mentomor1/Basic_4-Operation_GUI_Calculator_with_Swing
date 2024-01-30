@@ -31,3 +31,5 @@ This program is a basic GUI calculator program built using the Swing library. It
 ##
 **Method 2: Forking**
 ##
+Click on the 'Fork' button at the top right corner of this page to create a copy of this repository in your GitHub account.
+![image](https://github.com/m3mentomor1/Basic_4-Operation_GUI_Calculator_with_Swing/assets/95956735/4b77ed64-f7ed-4b28-acf7-2630bcb99a60)
