@@ -12,3 +12,17 @@ This program is a basic GUI calculator program built using the Swing library. It
 ----------------------
 
 ### 🛠️ III. How to use this repository?
+
+**1. Clone this repository**
+
+   Paste this command on your terminal: 
+   ```
+   git clone https://github.com/m3mentomor1/Basic_4-Operation_GUI_Calculator_with_Swing.git
+   ```
+
+**2. Go to the repository's main directory**
+   
+   Paste this command on your terminal:
+   ```
+   cd Basic_4-Operation_GUI_Calculator_with_Swing
+   ```
