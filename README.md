@@ -19,14 +19,14 @@ This program is a basic GUI calculator program built using the Swing library. It
 
    Paste this command on your terminal: 
    ```
-   git clone https://github.com/m3mentomor1/GUI-based_Basic_4-Operation_Calculator_with_Swing.git
+   git clone https://github.com/m3mentomor1/Simple_Calculator_with_Swing.git
    ```
 
 **2. Go to the repository's main directory**
    
    Paste this command on your terminal:
    ```
-   cd GUI-based_Basic_4-Operation_Calculator_with_Swing
+   cd Simple_Calculator_with_Swing
    ```
 ##
 > **Method 2: Forking**
